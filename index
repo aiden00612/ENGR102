@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aiden Gomez Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            line-height: 1.6;
+            color: #333;
+        }
+        h1, h2 {
+            border-bottom: 2px solid #444;
+            padding-bottom: 5px;
+        }
+        h1 {
+            font-size: 28px;
+            margin-bottom: 5px;
+        }
+        .contact {
+            margin-bottom: 20px;
+        }
+        .section {
+            margin-bottom: 25px;
+        }
+        ul {
+            margin: 10px 0 0 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Aiden Gomez</h1>
+    <div class="contact">
+        <p>Long Beach, CA</p>
+        <p>(562) 359-5454 • ag8097282@gmail.com</p>
+    </div>
+
+    <div class="section">
+        <h2>Objective</h2>
+        <p>
+            Motivated and hardworking college student pursuing a career in civil engineering. 
+            Seeking opportunities to apply strong organizational, teamwork, and problem-solving 
+            skills while gaining valuable work experience.
+        </p>
+    </div>
+
+    <div class="section">
+        <h2>Education</h2>
+        <p><strong>California State University, Long Beach</strong><br>
+        Pre-Civil Engineering Major<br>
+        Expected Graduation: 2029</p>
+
+        <p><strong>Los Alamitos High School</strong><br>
+        High School Diploma</p>
+    </div>
+
+    <div class="section">
+        <h2>Work Experience</h2>
+        <p><strong>In-N-Out Burger</strong><br>
+        Seal Beach, CA • July 2025 – Present</p>
+        <ul>
+            <li>Provided high-quality customer service in a fast-paced environment</li>
+            <li>Worked efficiently as part of a team to meet high demand</li>
+            <li>Maintained cleanliness and organization of work areas</li>
+            <li>Demonstrated responsibility and reliability in completing tasks</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Volunteer Experience</h2>
+        <p><strong>Elementary School Volunteer</strong><br>
+        McGaugh Elementary • April 2025</p>
+        <ul>
+            <li>Assisted teachers with classroom activities and student supervision</li>
+            <li>Worked closely with children to support learning and engagement</li>
+            <li>Helped create a positive and safe environment for students</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Skills & Strengths</h2>
+        <ul>
+            <li>Responsible and dependable</li>
+            <li>Strong work ethic</li>
+            <li>Organized and detail-oriented</li>
+            <li>Efficient and productive</li>
+            <li>Independent worker and team player</li>
+            <li>Strong communication and social skills</li>
+            <li>Quick learner and adaptable</li>
+            <li>Positive, easy-going attitude</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Activities</h2>
+        <ul>
+            <li>Participated in sports (teamwork, discipline, time management)</li>
+        </ul>
+    </div>
+
+</body>
+</html>
